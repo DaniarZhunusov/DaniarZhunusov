@@ -2,8 +2,7 @@
 
 I'm **Daniar Zhunusov**, a Computer Science student at ITMO University.
 
-🔧 **Tech Stack**: Python, Java, SQL, Docker.  
-🚀 **Learning**: Microservices, Machine Learning.
+🔧 **Tech Stack**: Python, Java, C, C++.  
 
 ## Github stats
 [![DaniarZhunusov's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniarZhunusov&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
