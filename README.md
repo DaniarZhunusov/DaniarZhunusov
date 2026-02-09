@@ -2,6 +2,15 @@
 
 I'm **Daniar Zhunusov**, a Computer Science student at ITMO University.
 
+## 🎓 Education
+
+### Main
+- Bachelor in Computer Science and Mathematics of ITMO University (2023 - 2027)
+- Faculty of Information Technology and Programming
+
+### Additional Education
+- T-Bank Backend Academy Java (2025 - 2026)
+
 ## Github stats
 <div align="center">
 <a href="https://github.com/DaniarZhunusov"><img alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=DaniarZhunusov&theme=github_dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" width="57%"/></a>
