@@ -11,12 +11,6 @@ I'm **Daniar Zhunusov**, a Computer Science student at ITMO University.
 ### Additional Education
 - T-Bank Backend Academy Java (2025 - 2026)
 
-## Github stats
-<div align="center">
-<a href="https://github.com/DaniarZhunusov"><img alt="Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=DaniarZhunusov&theme=github_dark&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" width="57%"/></a>
-<a href="https://github.com/DaniarZhunusov"><img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaniarZhunusov&hide=Makefile,Cmake,QMake&langs_count=8&layout=compact&theme=github_dark&hide_border=true&bg_color=151515&title_color=2d78dd&icon_color=79ff97&text_color=9a9a9a" width="42%"/></a> <!--- height="180px" --->
-</div>
-
 ### 🛠 Tech Stack
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
